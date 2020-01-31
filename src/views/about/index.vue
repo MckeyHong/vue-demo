@@ -16,6 +16,7 @@
             <li>axios (取得hiskio本周熱門課程)</li>
             <li>Bulma (網站樣式CSS)</li>
             <li>numeral (格式化課程價錢顯示)</li>
+            <li>vue-lazyload (圖片懶加載)</li>
           </ul>
         </aside>
       </div>

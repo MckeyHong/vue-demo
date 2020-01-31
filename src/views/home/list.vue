@@ -9,7 +9,7 @@
       <a :href="`https://hiskio.com/courses/${course.id}`" target="_blank">
         <div class="card-image">
           <figure class="image is-3by2">
-            <img :src="course.image" />
+            <img v-lazy="course.image" />
           </figure>
         </div>
         <div class="card-content">
