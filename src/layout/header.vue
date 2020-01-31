@@ -2,7 +2,7 @@
   <header>
     <nav class="navbar is-light" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
-        <router-link to="/" class="navbar-item">Vue Demo</router-link>
+        <router-link to="/" class="navbar-item">Mckey Vue Demo</router-link>
         <a
           role="button"
           class="navbar-burger burger"
